@@ -1,1 +1,1 @@
-# rag
+# LangChain, Vector Embedding and Projects
